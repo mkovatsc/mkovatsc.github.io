@@ -2,8 +2,6 @@ title: "Matthias Kovatsch"
 name: Testing
 description: "Dr. sc. ETH Zurich — Internet of Things researcher"
 google_analytics: 
-is_user_page: false
-is_project_page: true
 show_downloads: false
 theme: jekyll-theme-tactile
 
