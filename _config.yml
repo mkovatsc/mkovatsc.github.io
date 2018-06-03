@@ -1,7 +1,9 @@
 title: Matthias Kovatsch
 description: "Dr. sc. ETH Zurich — Internet of Things researcher "
 google_analytics: 
-show_downloads: true
+is_user_page: true
+is_project_page: false
+show_downloads: false
 theme: jekyll-theme-tactile
 
 gems:
