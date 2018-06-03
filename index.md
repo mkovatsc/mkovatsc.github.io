@@ -1,5 +1,3 @@
-## Welcome
-
 I am a Senior Research Scientist at Siemens Corporate Technology, Munich, Germany.
 My interests are networked embedded systems, RESTful environments, and building an Internet of Things around them.
 
