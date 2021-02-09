@@ -1,6 +1,6 @@
-I am a Principal Researcher at the German Research Center of Huawei Technologies, Munich, Germany.
-My interests are networked embedded systems, RESTful environments, and building an (Industrial) Internet of Things around them.
+I am a Principal Researcher at Huawei's Munich Research Center in Germany.
+With former experiences at Samsung and Siemens, I digitalize industry by applying Internet and Web technology, and shape the (Industrial) Internet of Things through standardization and open source software.
 
-I am a co-chair of the [W3C Web of Things](https://www.w3.org/WoT/) (IG+WG), a member of the [IETF IoT Directorate](https://www.ietf.org/), project lead in the [Eclipse IoT Working Group](http://iot.eclipse.org/),
-and the creator of the [Californium](https://www.eclipse.org/californium) (Cf), [Erbium](https://github.com/contiki-ng/contiki-ng/tree/develop/os/net/app-layer/coap) (Er), and [Copper](https://addons.mozilla.org/en-US/firefox/addon/copper-270430/) (Cu) open-source implementations of the [Constrained Application Protocol](https://tools.ietf.org/html/rfc7252) (CoAP).
-Recently, I also brought the W3C Web of Things implementation [Thingweb](https://www.thingweb.io) to the Eclipse Foundation.
+My standardization activities include the [IETF IoT Directorate](https://www.ietf.org/), chairing the [W3C Web of Things](https://www.w3.org/WoT/) Interest and Working Groups, and since recently the Steering Committee and Technical Working Groups of the [OPC Field Level Communications](https://opcfoundation.org/flc/) (FLC) initiative.
+
+My open-source projects include the [Eclipse Californium](https://www.eclipse.org/californium) (Cf), [Erbium](https://github.com/contiki-ng/contiki-ng/tree/develop/os/net/app-layer/coap) (Er), and [Copper](https://github.com/mkovatsc/Copper) (Cu) reference implementations of the [Constrained Application Protocol](https://tools.ietf.org/html/rfc7252) (CoAP), and the initial W3C WoT reference implementation [node-wot](https://github.com/eclipse/thingweb.node-wot/) of [Eclipse Thingweb](https://www.thingweb.io/).
