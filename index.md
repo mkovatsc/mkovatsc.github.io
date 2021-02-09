@@ -1,5 +1,5 @@
 I am a Principal Researcher at Huawei's Munich Research Center in Germany.
-With former experiences at Samsung and Siemens, I digitalize industry by applying Internet and Web technology, and shape the (Industrial) Internet of Things through standardization and open source software.
+With former experiences at Samsung and Siemens, I digitalize industry by advancing and applying Internet and Web technology, and shape the (Industrial) Internet of Things through standardization and open source software.
 
 My standardization activities include the [IETF IoT Directorate](https://www.ietf.org/), chairing the [W3C Web of Things](https://www.w3.org/WoT/) Interest and Working Groups, and since recently the Steering Committee and Technical Working Groups of the [OPC Field Level Communications](https://opcfoundation.org/flc/) (FLC) initiative.
 
